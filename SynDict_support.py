@@ -5,7 +5,7 @@ import sys
 import tkinter as tk
 import tkinter.ttk as ttk
 from tkinter.constants import *
-import main
+import SynDict
 
 
 def main(*args):
