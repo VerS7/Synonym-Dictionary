@@ -1,2 +1,4 @@
 # Synonym-Dictionary
-University project of synonym dictionary based on Python Tkinter
+University project 
+Synonym dictionary 
+Based on Python with Tkinter
